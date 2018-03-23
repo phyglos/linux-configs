@@ -1,0 +1,25 @@
+#
+# README - General description of the contents of the tarball
+#
+# Copyright (C) 2018 Angel Linares Zapater
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License, version 2, as 
+# published by the Free Software Foundation. See the COPYING file.
+#
+# This program is distributed WITHOUT ANY WARRANTY; without even the 
+# implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#
+
+The Linux configs collection
+============================
+
+The Linux configs collection is a set of configuration files for the Linux kernel.
+The package is designed to work with the BANDIT toolkit and the phyglos catalog, but the .config files can be used as independent files when builing any new Linux kernel. 
+
+The COPYING file contains the GNU License for this software.
+The RELEASE file describes the main changes in this release.
+
+Visit http://phy.wiki for more information.
+
+
