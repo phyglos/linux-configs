@@ -11,10 +11,10 @@
 # implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
 #
 
-The Linux configs collection
+The linux-configs collection
 ============================
 
-The Linux configs collection is a set of configuration files for the Linux kernel.
+The linux-configs collection is a set of .config kernel configuration files for the Linux kernel.
 The package is designed to work with the BANDIT toolkit and the phyglos catalog, but these .config files can be used as independent files when building any new Linux kernel. 
 
 The COPYING file contains the GNU License for this software.
