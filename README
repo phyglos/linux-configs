@@ -14,12 +14,41 @@
 The linux-configs collection
 ============================
 
-The linux-configs collection is a set of .config kernel configuration files for the Linux kernel.
-The package is designed to work with the BANDIT toolkit and the phyglos catalog, but these .config files can be used as independent files when building any new Linux kernel. 
+The linux-configs Collection is a set of kernel configuration files for
+the Linux kernel. This collection tracks the stable and Long-Term-Support
+(LTS) releases in the Linux Kernel Archives.
+
+The collection contains files that have been preconfigured in order to be
+used, with different architectures and with certain hardware requirements,
+when a new Linux kernel is to be built.
+
+How to use
+==========
+
+This collection is designed to work automatically with the BANDIT toolkit
+and the phyglos catalog. In this case everything is handled by the BANDIT;
+only the desired kernel version has to be selected in the phyglos-kernel
+bundle configuration.
+
+However, the included .config files in this collection can be used as independent
+Kconfig files when manually building a new Linux kernel. In order to use these
+files manually just download the wanted file from the GitHub repository or
+download and uncompress the package from the FTP site.
+
+Status
+======
+
+The linux-config collection is in DEVELOPMENT status. This means that it is
+unstable and can still suffer big changes. However, it is already in regular
+use in the phyglos-kernel bundle of the phyglos catalog for the phy GNU/Linux
+Operating System.
+
+More information
+================
 
 The COPYING file contains the GNU License for this software.
 The RELEASE file describes the main changes in this release.
 
-Visit https://phy.wiki for more information.
+See https://docs.phyglos.org/linux-configs for more information.
 
 
