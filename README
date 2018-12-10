@@ -38,10 +38,12 @@ download and uncompress the package from the FTP site.
 Status
 ======
 
-The linux-config collection is in DEVELOPMENT status. This means that it is
-unstable and can still suffer big changes. However, it is already in regular
-use in the phyglos-kernel bundle of the phyglos catalog for the phy GNU/Linux
-Operating System.
+The linux-config collection is in DEVELOPMENT status. This means that the structure
+of the repository and some other elements like naming conventions, etc. can still 
+suffer some changes. However, the individual KConfig files can be used as a 
+starting point for a given configuratio when building manually a new Kernel. The 
+package is already in regular use in the **phyglos-kernel** bundle in
+the **phyglos catalog** for the **phy GNU/Linux Operating System**.
 
 More information
 ================
@@ -49,6 +51,7 @@ More information
 The COPYING file contains the GNU License for this software.
 The RELEASE file describes the main changes in this release.
 
-See https://docs.phyglos.org/linux-configs for more information.
+See the documentation at https://docs.phyglos.org/linux-configs
+
 
 
