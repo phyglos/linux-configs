@@ -1,7 +1,7 @@
 #
 # README - General description of the contents 
 #
-# Copyright (C) 2018 Angel Linares Zapater
+# Copyright (C) 2018-2019 Angel Linares Zapater
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License, version 2, as 
@@ -22,7 +22,6 @@ https://www.kernel.org/category/releases.html.
 The collection contains Kconfig files that have been preconfigured in order to
 be used, with different architectures and with certain hardware requirements,
 when a new Linux kernel is manually built.
-
 
 How to use
 ==========
