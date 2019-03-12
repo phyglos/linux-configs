@@ -1,15 +1,13 @@
-#
-# README - General description of the contents 
-#
-# Copyright (C) 2018-2019 Angel Linares Zapater
-#
-# This program is free software; you can redistribute it and/or modify
-# it under the terms of the GNU General Public License, version 2, as 
-# published by the Free Software Foundation. See the COPYING file.
-#
-# This program is distributed WITHOUT ANY WARRANTY; without even the 
-# implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
-#
+    README - General description of the linux-configs collection
+
+    Copyright (C) 2018-2019 Angel Linares Zapater
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as
+    published by the Free Software Foundation. See the COPYING file.
+
+    This program is distributed WITHOUT ANY WARRANTY; without even the
+    implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 The linux-configs collection
 ============================
@@ -55,9 +53,7 @@ More information
 ================
 
 The COPYING file contains the GNU License for this software.
+
 The RELEASE file describes the main changes in this release.
 
 See the documentation at https://docs.phyglos.org/linux-configs
-
-
-
