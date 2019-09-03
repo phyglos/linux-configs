@@ -14,7 +14,7 @@
 RELEASE NOTES for the Linux configs collection
 ==============================================
 
-This is the revision "$REVISION" of the Linux configs collection.
-This is a "$RELEASE_TYPE" release.
+This is the revision "0.8.9" of the Linux configs collection.
+This is a "DEVELOPMENT" release.
 
 See the documentation at https://docs.phyglos.org/linux-configs
