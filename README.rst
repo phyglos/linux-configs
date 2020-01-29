@@ -1,6 +1,6 @@
     README - General description of the linux-configs collection
 
-    Copyright (C) 2018-2019 Angel Linares Zapater
+    Copyright (C) 2018-2020 Angel Linares Zapater
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as
